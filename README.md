@@ -1,31 +1,6 @@
 ## Hi there , My name is Santiago , Welcome to my repository.
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Imagen a tamaño completo</title>
-    <style>
-        body {
-            margin: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh; /* La altura ocupa toda la ventana */
-            background-color: #f0f0f0; /* Fondo opcional */
-        }
-        img {
-            max-width: 100%; /* Se adapta al ancho del contenedor */
-            max-height: 100%; /* Se adapta a la altura del contenedor */
-            object-fit: cover; /* Asegura que cubra el espacio disponible */
-        }
-    </style>
-</head>
-<body>
-    <img src="https://github.com/user-attachments/assets/76b9a5e2-d619-4e5f-aa48-e97259ad80dc" alt="Imagen">
-</body>
-</html>
 
+<img src="https://github.com/user-attachments/assets/76b9a5e2-d619-4e5f-aa48-e97259ad80dc" alt="Imagen grande" width="100%" height="auto">
 
 
 <!--
