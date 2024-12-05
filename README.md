@@ -23,6 +23,6 @@ Feel free to connect with me and let’s work together to achieve great things!
 
 Let me know if you’d like to add or adjust anything! 😊
 
-MI MAYOR PROYECTO: 
+MY BEST PROYECT: 
 
 <img width="948" alt="Screenshot_19" src="https://github.com/user-attachments/assets/940170aa-0eac-413f-9f28-8b6530afb852">
