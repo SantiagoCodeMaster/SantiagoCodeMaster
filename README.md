@@ -1,14 +1,13 @@
-
 ## Hi there 👋  
 My name is Santiago, Welcome to my repository.
 
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/76b9a5e2-d619-4e5f-aa48-e97259ad80dc" alt="Imagen ajustada" width="40%" height="auto">
+      <img src="https://github.com/user-attachments/assets/76b9a5e2-d619-4e5f-aa48-e97259ad80dc" alt="Imagen ajustada" width="40%">
     </td>
     <td>
-      <span style="color:blue; font-size:18px;">**Welcome to my repository**</span>
+      <span style="color:blue; font-weight:bold;">Welcome to my repository</span>
     </td>
   </tr>
 </table>
