@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there , My name is Santiago , Welcome to my repository.
+<img width="126" alt="Screenshot_15" src="https://github.com/user-attachments/assets/76b9a5e2-d619-4e5f-aa48-e97259ad80dc">
+
 
 <!--
 **SantiagoCodeMaster/SantiagoCodeMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
