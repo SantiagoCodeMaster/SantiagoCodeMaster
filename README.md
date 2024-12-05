@@ -1,6 +1,6 @@
 ## Hi there , My name is Santiago , Welcome to my repository.
 
-<img src="https://github.com/user-attachments/assets/76b9a5e2-d619-4e5f-aa48-e97259ad80dc" alt="Imagen grande" width="100%" height="auto">
+<img src="https://github.com/user-attachments/assets/76b9a5e2-d619-4e5f-aa48-e97259ad80dc" alt="Imagen ajustada" width="50%" height="auto">
 
 
 <!--
