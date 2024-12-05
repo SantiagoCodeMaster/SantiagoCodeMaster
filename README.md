@@ -4,7 +4,7 @@ My name is Santiago, Welcome to my repository.
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/76b9a5e2-d619-4e5f-aa48-e97259ad80dc" alt="Imagen ajustada" width="40%">
+      <img src="https://github.com/user-attachments/assets/76b9a5e2-d619-4e5f-aa48-e97259ad80dc" alt="Imagen ajustada" width="60%">
     </td>
     <td>
       <span style="color:blue; font-weight:bold;">Welcome to my repository</span>
