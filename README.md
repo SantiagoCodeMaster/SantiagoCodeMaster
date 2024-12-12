@@ -19,9 +19,7 @@ I am highly motivated to share my knowledge with others while continuously learn
 
 💼 I’m currently open to an internship or a new job opportunity where I can apply my skills, gain valuable experience, and further develop as a professional.
 
-Feel free to connect with me and let’s work together to achieve great things!
-
-Let me know if you’d like to add or adjust anything! 😊
+Feel free to connect with me and let’s work together to achieve great things! 😊
 
 MY BEST PROYECT: 
 
