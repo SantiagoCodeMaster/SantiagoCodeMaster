@@ -13,7 +13,7 @@ My name is Santiago, Welcome to my repository.
 </table>
 
 About Me
-Hello! 👋 My name is Santiago, and I am a final-year Economics student with a strong passion for data analysis and backend programming. I thrive on exploring the intersection between technology and economics, finding innovative ways to solve problems through code and data-driven insights.
+Hello! 👋 My name is Santiago, and I am an economics professional specializing in finance with a strong passion for data analysis and backend programming. I thrive on exploring the intersection between technology and economics, finding innovative ways to solve problems through code and data-driven insights.
 
 I am highly motivated to share my knowledge with others while continuously learning and growing in my field. My goal is to contribute to impactful projects, collaborate with like-minded individuals, and develop solutions that make a difference.
 
